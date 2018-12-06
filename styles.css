@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400|Raleway:400,500,600,700,800|Roboto');
+
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?8wr06k');
+  src: url('fonts/icomoon.eot?8wr06k#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?8wr06k') format('truetype'),
+    url('fonts/icomoon.woff?8wr06k') format('woff'),
+    url('fonts/icomoon.svg?8wr06k#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 @font-face {
   font-family: "Socialico";
   src: url("Socialico.eot?") format("eot"), url("Socialico.woff") format("woff"), url("font/Socialico.ttf") format("truetype"), url("font/Socialico.svg#Socialico") format("svg");
